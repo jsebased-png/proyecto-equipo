@@ -1,1 +1,1 @@
-# proyecto-equipo
+# Proyecto-equipo /nProyecto colaborativo para practicar Git.
